@@ -1,3 +1,5 @@
+[![Banner-README-Git-Hub.png](https://i.postimg.cc/zvpWFG8b/Banner-README-Git-Hub.png)](https://postimg.cc/H8cVpHJd)
+
 # Olá, me chamo Paulo Felipe Borszcz 👋
 
 Bem-vindo ao meu GitHub! Sou estudante de Análise e Desenvolvimento de Sistemas na UTFPR e estagiário de TI nas Lojas MM. Meu sonho é me tornar um desenvolvedor front-end. Aqui você encontrará projetos que demonstram minhas habilidades em HTML, CSS, JavaScript, React e muito mais.
