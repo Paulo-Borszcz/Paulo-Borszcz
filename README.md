@@ -27,7 +27,6 @@ Estou aberto a colaborar em projetos, especialmente aqueles focados em desenvolv
 - Sou apaixonado por tecnologia e sempre estou procurando novas ferramentas e técnicas para melhorar meu trabalho.
 - Também tenho um grande interesse por soluções de TI que otimizam processos e melhoram o dia a dia das pessoas.
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-Borszcz&show_icons=true&theme=radical)
 
 ---
 
