@@ -1,4 +1,4 @@
-[![Banner-README-Git-Hub.png](https://i.postimg.cc/zvpWFG8b/Banner-README-Git-Hub.png)](https://postimg.cc/H8cVpHJd)
+  <img src="https://i.postimg.cc/DZw7bvjY/Banner-README-Git-Hub-1.png" alt="Banner" style="width:100%; display: block; margin: 0; padding: 0;"/>
 
 # Olá, me chamo Paulo Felipe Borszcz 👋
 
