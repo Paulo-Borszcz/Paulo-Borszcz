@@ -22,7 +22,7 @@ Estou aberto a colaborar em projetos, especialmente aqueles focados em desenvolv
 ## 📫 Como me alcançar
 
 - Email: [paulofelipeborszcz2004@gmail.com](mailto:paulofelipeborszcz2004@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/paulo-felipe-borszcz-013942236/]
+- LinkedIn: https://www.linkedin.com/in/paulo-felipe-borszcz-013942236/
 
 ## ⚡ Sobre mim
 
