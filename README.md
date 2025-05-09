@@ -1,4 +1,4 @@
-![Entrada GitHub](https://github.com/Paulo-Borszcz/assets/blob/main/output.gif?raw=true)
+![Entrada GitHub](https://github.com/Paulo-Borszcz/assets/blob/main/output.gif)
 
 # Olá, tudo bem? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px">
 
