@@ -1,3 +1,5 @@
+![Entrada GitHub](https://github.com/Paulo-Borszcz/assets/blob/main/output.gif?raw=true)
+
 # Olá, tudo bem? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px">
 
 Sou o Paulo, um desenvolvedor full-stack apaixonado e estudante de ADS com experiência em desenvolvimento de soluções tecnológicas.
