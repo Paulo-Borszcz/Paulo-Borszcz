@@ -39,7 +39,7 @@ Nos últimos anos, tenho aprendido várias tecnologias e linguagens. Estas são 
   - **Cursando Análise e Desenvolvimento de Sistemas**
     - Março de 2023 - Presente
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP5Jj7kaGKmPw90tv2pKxaogPOUlOLkzwRuw&s" width="25"> **Lojas MM**:
-  - **Estagiário de TI**
+  - **Analista de Suporte (HelpDesk)**
     - Janeiro de 2024 – Presente
 
 ## Estatísticas do GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30">
