@@ -37,7 +37,7 @@ Nos últimos anos, tenho aprendido várias tecnologias e linguagens. Estas são 
 
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNK8__VXgJviT2Xi_aPnHjxoSjQmtEraSI4g&s" width="25"> **UTFPR**:
   - **Cursando Análise e Desenvolvimento de Sistemas**
-    - Março de 2023 (Presente)
+    - Março de 2023 - Presente
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP5Jj7kaGKmPw90tv2pKxaogPOUlOLkzwRuw&s" width="25"> **Lojas MM**:
   - **Estagiário de TI**
     - Janeiro de 2024 – Presente
