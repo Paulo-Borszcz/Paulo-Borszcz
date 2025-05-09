@@ -8,7 +8,7 @@ Ao longo do meu tempo programando, aprimorei minhas habilidades de resolução d
 
 Em termos de realizações profissionais, tenho trabalhado em diversos projetos utilizando aplicações web de alto desempenho, criando sistemas acessíveis e escaláveis que transformam processos e experiências.
 
-## Habilidades <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30">
+## Habilidades <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Rocket.png?raw=true" width="30">
 
 Nos últimos anos, tenho aprendido várias tecnologias e linguagens. Estas são as que aprendi até agora.
 | **#** | **Tecnologia** | **Proficiência** |
