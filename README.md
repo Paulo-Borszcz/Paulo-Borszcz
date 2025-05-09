@@ -57,10 +57,10 @@ Nos últimos anos, tenho aprendido várias tecnologias e linguagens. Estas são 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="25"> Café bebido: &nbsp; <code>∞</code> xícaras.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="25"> Linhas de código escritas: &nbsp; <code>∞</code>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" width="25"> Bugs corrigidos: &nbsp; <code>∞</code>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Brain.png" width="25"> Tempo pensando: &nbsp; <code>∞</code> horas.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eyes.png" width="25"> Total de visualizações: &nbsp; <img src="https://komarev.com/ghpvc/?username=Paulo-Borszcz&style=flat-square&color=ffffff&label=Views" alt="Profile views"/>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="25"> Projetos concluídos: `12`
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Done.png" width="25"> Horas de trabalho diárias: `~ 8 Horas`
+- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Brain.png" width="25"> Tempo pensando: &nbsp; <code>∞</code> horas.
+- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Eyes.png" width="25"> Total de visualizações: &nbsp; <img src="https://komarev.com/ghpvc/?username=Paulo-Borszcz&style=flat-square&color=ffffff&label=Views" alt="Profile views"/>
+- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Robot.png" width="25"> Projetos concluídos: `12`
+- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Hourglass%20Done.png" width="25"> Horas de trabalho diárias: `~ 8 Horas`
 
 ## Coisas que gosto de fazer no meu tempo livre <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="30">
 
@@ -71,9 +71,9 @@ Nos últimos anos, tenho aprendido várias tecnologias e linguagens. Estas são 
 
 ## Gostou do meu trabalho? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" width="30">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="25"/>&nbsp;[Dê uma estrela aos meus repositórios](https://github.com/Paulo-Borszcz?tab=repositories) <br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" width="25"/>&nbsp;[Siga-me no GitHub](https://github.com/Paulo-Borszcz)<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25"/>&nbsp;[Confira meus projetos](https://github.com/Paulo-Borszcz?tab=repositories)<br/>
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Star.png" width="25"/>&nbsp;[Dê uma estrela aos meus repositórios](https://github.com/Paulo-Borszcz?tab=repositories) <br/>
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png" width="25"/>&nbsp;[Siga-me no GitHub](https://github.com/Paulo-Borszcz)<br/>
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Globe%20with%20Meridians.png" width="25"/>&nbsp;[Confira meus projetos](https://github.com/Paulo-Borszcz?tab=repositories)<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25"/>&nbsp;[Entre em contato](mailto:paulofelipeborszcz2004@gmail.com)<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25"> [Conecte-se no LinkedIn](https://www.linkedin.com/in/paulo-felipe-borszcz-013942236/)
 
