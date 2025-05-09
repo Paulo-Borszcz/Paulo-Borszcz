@@ -1,6 +1,10 @@
+# Olá, tudo bem? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px">
+
+<div align="center">
+
 ![Entrada GitHub](https://github.com/Paulo-Borszcz/assets/blob/main/terminal.gif)
 
-# Olá, tudo bem? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px">
+</div>
 
 Sou o Paulo, um desenvolvedor full-stack apaixonado e estudante de ADS com experiência em desenvolvimento de soluções tecnológicas.
 
@@ -79,4 +83,11 @@ Nos últimos anos, tenho aprendido várias tecnologias e linguagens. Estas são 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25"/>&nbsp;[Entre em contato](mailto:paulofelipeborszcz2004@gmail.com)<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25"> [Conecte-se no LinkedIn](https://www.linkedin.com/in/paulo-felipe-borszcz-013942236/)
 
-### Obrigado pela visita!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" width="25">
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" width="60" />
+  
+  ### Obrigado pela visita! 
+  
+  *"Cada linha de código é uma oportunidade para mudar o mundo."*
+</div>
